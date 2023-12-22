@@ -1,11 +1,11 @@
 # ai
 collection ai for all aspects(text, video, audio, image, movie)
 
-#image
+# image
 
-#movie
+# movie
 
-#text
+# text
 
-#video
+# video
 https://musicfy.lol/
