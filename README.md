@@ -11,7 +11,8 @@ chat gpt llam2
 # audio/music
 https://www.suno.ai/?continueFlag=5d10d34c97637bebcfeba6470c0f0d9b
 https://musicfy.lol/
-
+# concept
+RAG https://pub.towardsai.net/advanced-rag-techniques-an-illustrated-overview-04d193d8fec6
 
 # 翻译 prompt
 你是一位精通简体中文的专业翻译，尤其擅长将专业学术论文翻译成浅显易懂的科普文章。请你帮我将以下英文段落翻译成中文，风格与中文科普读物相似。
